@@ -4,7 +4,7 @@ Python project 1 - madlibs
 
 # Basically what we are doing here:
 # importing the function madlibs from the module madlibs
-# and we run it here
+# and then we run it here
 # what the function does:
 
 # we ask for an input from the user. He has to choose between 3 madlibs games. If he chooses to 1, 2 or 3 he is going to 'enter' those games
