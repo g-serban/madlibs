@@ -111,7 +111,7 @@ cash in your tickets to get a big {nouna2}. You \
 can save your {plural_nouna4} for \
 another time. When I went to this arcade I didn't \
 believe how much fun it would be. So far I have had a \
-lot of fun every time I've been to this great arcade!"
+lot of fun every time I've been to this great arcade! "
         print(madlib_arcade)
         try_again = input("Do you want to try again? Yes / No: ")
         if try_again == "Yes" or try_again == "yes":
